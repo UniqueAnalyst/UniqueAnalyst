@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm currently learning **Data Analytics** through **Vephla**, where I'm building a strong foundation in Excel, data cleaning, visualization, and storytelling.
+I'm currently learning **Data Analytics** through **Vephla**, where I'm building a strong foundation in Microsoft Excel, Microsoft Power BI, Python, Tableau and R for Analysis, data cleaning, visualization, and storytelling.
 
 📊 I’m passionate about data — how it moves, how it’s shaped, and how it can be used to understand real-world behavior.
 
