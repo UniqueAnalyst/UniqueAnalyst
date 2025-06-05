@@ -10,7 +10,7 @@ I'm currently learning **Data Analytics** through **Vephla**, where I'm building
 
 🔧 I'm currently focused on:
 - Microsoft Excel for data analysis
-- Microsoft Power BI for data visualization
+- Microsoft Power BI and Tableau for data visualization
 - Foundational statistics
 - Data storytelling and visualization
 - Real-life business use cases
