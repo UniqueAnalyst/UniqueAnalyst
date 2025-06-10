@@ -9,8 +9,9 @@ I'm currently learning **Data Analytics** through **Vephla**, where I'm building
 🧠 I enjoy exploring datasets, uncovering hidden patterns, and understanding the “why” behind the numbers. My curiosity drives me to keep learning, and I believe that data has the power to solve everyday problems in smart, impactful ways.
 
 🔧 I'm currently focused on:
-- Microsoft Excel for data analysis
-- Microsoft Power BI and Tableau for data visualization
+- Microsoft Excel
+- Microsoft Power BI
+- Tableau
 - Foundational statistics
 - Data storytelling and visualization
 - Real-life business use cases
